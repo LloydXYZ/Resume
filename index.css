@@ -5,10 +5,10 @@
     padding: 0px;
   }
   body{
-    background:rgb(71, 175, 240);
+    background:hsla(169, 59%, 63%, 1);
   }
   .container{
-    background: rgb(146, 146, 216);
+    background: hsla(176, 100%, 66%, 1);
     max-width: 800px;
     margin: 60px auto;
     height: 1150px;
@@ -19,7 +19,7 @@
  .header{
     text-align: center;
   }
-        .header h1{
+ .header h1{
             margin-bottom: 20px;
         }
         .header h3{
@@ -33,7 +33,7 @@
             overflow: hidden;
             border-radius: 50%;
             margin: 18px auto;
-            border: 15px groove rgb(167, 185, 192);
+            border: 15px groove hsla(229, 29%, 39%, 1);
         }
         .img-area img{
             width: 100%;
