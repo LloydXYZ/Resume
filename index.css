@@ -70,6 +70,6 @@ h2{
 }
 @media (max-width: 800px){
   .container {
-    height: 2050px;
+    height: 100%;
   }
 }
