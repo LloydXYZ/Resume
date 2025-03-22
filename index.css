@@ -68,3 +68,8 @@ h2{
   font-size: 20px;
   line-height: 25px;
 }
+@media (max-width: 800px){
+  .container {
+    height: 1950px;
+  }
+}
